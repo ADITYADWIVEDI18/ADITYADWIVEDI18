@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm ADITYA DWIVEDI</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
+
 <p align="center"> <img src="https://user-images.githubusercontent.com/69011963…37184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"> </p>
 
 <h3 align="left">Connect with me:</h3>
