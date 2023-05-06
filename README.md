@@ -1,4 +1,4 @@
-# 💫 About Me:
+                                                           # 💫 About Me:
 I'm a full stack developer with a love for coding and a strong interest in open source technology. I'm always eager to learn about the latest trends and techniques, and I'm currently exploring the exciting possibilities of web3.
 
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  width="1280" height="400">
