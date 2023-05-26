@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, folks! 
 I'm a full stack developer with a love for coding and a strong interest in open source technology. I'm always eager to learn about the latest trends and techniques, and I'm currently exploring the exciting possibilities of web3.
 
 
