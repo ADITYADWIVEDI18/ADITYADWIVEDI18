@@ -1,7 +1,7 @@
 ## Hello, folks! 
 I'm a full stack developer with a love for coding and a strong interest in open source technology. I'm always eager to learn about the latest trends and techniques, and I'm currently exploring the exciting possibilities of web3.
 
-![Coding GIF](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)
+![Coding GIF](https://user-images.githubusercontent.com/70419764/178626489-c8a1827b-19f0-40f5-9827-9f26f4e7bbf2.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-dwivedi-450153226) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AdityaDwivedii_) 
